@@ -44,7 +44,7 @@ Click on the **main.c** file inside the folder that has the same files as your p
 
 You can run the project with <kbd>cmd</kbd> + <kbd>r</kbd>. This will build the source files and run the console app. Alternatively, you can press the play button [in the upper left], which builds and runs the project too. Or, also through the menubar option in **Project > Build**, then **Project > Run**.
 
-You may get a prompt to enable developer mode if this is the first time you are using Xcode. If you choose not to enable it, you may be prompted to enter your password later on, but this tutorial assumes that developer mode is enabled.
+You may get a prompt to enable developer mode if this is the first time you are using Xcode. If you choose not to enable it, you may be prompted to enter your password when you run the project, but this tutorial assumes that developer mode is enabled.
 
 At the bottom of the _editor area_ there should be a smaller window where it will show the output of your command line application. In this case it should say `Hello World!`.
 
